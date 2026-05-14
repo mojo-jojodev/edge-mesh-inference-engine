@@ -1,0 +1,7 @@
+{
+    "mesh_network": "tailscale_overlay_v1",
+    "nodes": [
+        {"node_id": "laptop-primary", "ip": "100.115.92.2", "vram_gb": 12, "layers": [0, 11]},
+        {"node_id": "desktop-secondary", "ip": "100.115.92.3", "vram_gb": 8, "layers": [12, 23]}
+    ]
+}
